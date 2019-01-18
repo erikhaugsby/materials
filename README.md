@@ -61,8 +61,6 @@ excluded.
 
 ## Input
 
-Should you wish to complete any of these appendices, please do so.
-
 Should you find any errors or omissions, I would greatly appreciate you either 
 notifying me by email (e@erikhaugsby.com), or initiating a pull request.
 
