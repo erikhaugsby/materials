@@ -35,8 +35,8 @@ contribution to the collective knowledge of potters.
 
 It improves upon the HTML version of the information by consolidating all sections 
 into a single document, which is both viewable on the computer and can also be
-printed. Furthermore, it introduces clickable links/references between sections, 
-tables, and images.
+printed. Furthermore, it introduces clickable links/references between sections and 
+tables.
 
 ---
 
