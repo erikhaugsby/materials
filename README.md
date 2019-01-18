@@ -49,6 +49,10 @@ LaTeX typesetting.
 
 Some corrections were made to spelling and grammar.
 
+Unfortunately, no images are available in the online version of this document. 
+Inline references to images have been maintained, but will always appear as 
+_??_.
+
 The possibility of minor or unavoidable changes in layout and formatting, as 
 well as unintentional errors in transcribing the original text, cannot be 
 excluded.
