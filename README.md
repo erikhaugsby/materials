@@ -18,7 +18,9 @@ Citation for the original print edition:
 >	 *Gesellschaft Für Technische Zusammenarbeit (GTZ) GmbH.* 
 >	 Braunschweig: Vieweg, 1990.
 
->ISBN 10: 3528020571  ISBN 13: 9783528020576
+>ISBN 10: 3528020571
+>
+>ISBN 13: 9783528020576
 
 ---
 
