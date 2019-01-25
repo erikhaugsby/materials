@@ -4,7 +4,7 @@
 
 ## This Document
 
-This is a LaTeX typsetting of the book *Clay Materials - for the Self-reliant Potter*.
+This is a LaTeX typesetting of the book *Clay Materials - for the Self-reliant Potter*.
 
 This document was typeset by Erik Haugsby from the freely available source 
 material provided by the CD3WD:
